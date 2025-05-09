@@ -1,0 +1,13 @@
+{
+    "pushbullet_api_key": "",
+    "model_path": "yolov8s.pt",
+    "classes_file": "coco.txt",
+    "log_file": "detection_log.csv",
+    "restricted_area_file": "restricted_area.json",
+    "notification_cooldown": 5,
+    "log_cooldown": 5,
+    "frame_skip_threshold": 3,
+    "crowd_threshold": 1,
+    "confidence_threshold": 0.5,
+    "last_used_video": "C:/Users/adity/Downloads/13009574_3840_2160_30fps.mp4"
+}

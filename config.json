@@ -1,0 +1,7 @@
+{
+    "detection_sensitivity": 0.5,
+    "show_confidence": true,
+    "alert_sound_enabled": false,
+    "auto_record": false,
+    "model_path": "./models"
+}

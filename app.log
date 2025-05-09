@@ -1,0 +1,98 @@
+2025-04-02 18:09:07,018 - __main__ - INFO - Loaded 80 classes from coco.txt
+2025-04-02 18:09:07,164 - __main__ - INFO - Model loaded successfully: yolov8s.pt
+2025-04-02 18:09:07,164 - __main__ - INFO - Model loaded: yolov8s.pt
+2025-04-02 18:10:06,048 - __main__ - INFO - Configuration saved successfully
+2025-04-02 18:10:06,048 - __main__ - INFO - Video loaded: 12752537_3840_2160_60fps.mp4
+2025-04-02 18:10:09,665 - __main__ - INFO - Video paused
+2025-04-02 18:11:14,509 - __main__ - INFO - Monitoring zone saved
+2025-04-02 18:11:14,509 - __main__ - INFO - Monitoring zone saved
+2025-04-02 18:11:15,749 - __main__ - INFO - Monitoring zone saved
+2025-04-02 18:11:15,749 - __main__ - INFO - Monitoring zone saved
+2025-04-02 18:11:16,670 - __main__ - INFO - Monitoring zone loaded
+2025-04-02 18:11:16,671 - __main__ - INFO - Monitoring zone loaded
+2025-04-02 18:11:19,146 - __main__ - INFO - Video resumed
+2025-04-02 18:11:27,831 - __main__ - INFO - Video paused
+2025-04-02 18:11:32,280 - __main__ - INFO - Configuration saved successfully
+2025-04-02 18:11:32,281 - __main__ - INFO - Settings applied successfully
+2025-04-02 18:11:35,790 - __main__ - INFO - Video resumed
+2025-04-02 18:11:40,707 - __main__ - INFO - Video paused
+2025-04-02 18:11:44,396 - __main__ - ERROR - Error processing statistics: Error tokenizing data. C error: Expected 2 fields in line 315, saw 4
+
+2025-04-02 18:11:53,921 - __main__ - INFO - Video source stopped
+2025-04-02 18:11:53,926 - __main__ - INFO - Configuration saved successfully
+2025-04-02 18:15:20,898 - __main__ - INFO - Configuration loaded successfully
+2025-04-02 18:15:20,898 - __main__ - INFO - Loaded 80 classes from coco.txt
+2025-04-02 18:15:20,917 - __main__ - INFO - Monitoring zone loaded
+2025-04-02 18:15:20,917 - __main__ - INFO - Monitoring zone loaded
+2025-04-02 18:15:21,031 - __main__ - INFO - Model loaded successfully: yolov8s.pt
+2025-04-02 18:15:21,032 - __main__ - INFO - Model loaded: yolov8s.pt
+2025-04-02 18:16:53,744 - __main__ - INFO - Configuration saved successfully
+2025-04-02 18:16:53,744 - __main__ - INFO - Video loaded: 12752537_3840_2160_60fps.mp4
+2025-04-02 18:16:56,283 - __main__ - INFO - Video paused
+2025-04-02 18:17:51,930 - __main__ - INFO - Video source stopped
+2025-04-02 18:17:51,935 - __main__ - INFO - Configuration saved successfully
+2025-04-24 21:39:23,198 - __main__ - INFO - Configuration loaded successfully
+2025-04-24 21:39:23,200 - __main__ - INFO - Loaded 80 classes from coco.txt
+2025-04-24 21:39:23,228 - __main__ - INFO - Monitoring zone loaded
+2025-04-24 21:39:23,228 - __main__ - INFO - Monitoring zone loaded
+2025-04-24 21:39:23,355 - __main__ - INFO - Model loaded successfully: yolov8s.pt
+2025-04-24 21:39:23,355 - __main__ - INFO - Model loaded: yolov8s.pt
+2025-04-24 21:39:36,264 - __main__ - INFO - Configuration saved successfully
+2025-04-24 21:39:36,265 - __main__ - INFO - Video loaded: 6091315-uhd_2160_3840_25fps.mp4
+2025-04-24 21:39:55,566 - __main__ - INFO - Video source stopped
+2025-04-24 21:40:04,983 - __main__ - INFO - Configuration saved successfully
+2025-04-24 21:40:04,983 - __main__ - INFO - Video loaded: 13009574_3840_2160_30fps.mp4
+2025-04-24 21:40:16,782 - __main__ - INFO - Video source stopped
+2025-04-24 21:40:32,109 - __main__ - INFO - Configuration saved successfully
+2025-04-24 21:40:32,113 - __main__ - INFO - Video loaded: 13009574_3840_2160_30fps.mp4
+2025-04-24 21:40:41,109 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:40:41,109 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:40:43,923 - __main__ - INFO - Monitoring zone loaded
+2025-04-24 21:40:43,923 - __main__ - INFO - Monitoring zone loaded
+2025-04-24 21:40:45,794 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:40:45,794 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:40:46,539 - __main__ - INFO - Monitoring zone loaded
+2025-04-24 21:40:46,539 - __main__ - INFO - Monitoring zone loaded
+2025-04-24 21:40:50,157 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:40:50,157 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:40:56,078 - __main__ - INFO - Monitoring zone cleared
+2025-04-24 21:40:58,421 - __main__ - INFO - End of video reached
+2025-04-24 21:40:58,450 - __main__ - INFO - Video source stopped
+2025-04-24 21:41:04,876 - __main__ - INFO - Configuration saved successfully
+2025-04-24 21:41:04,877 - __main__ - INFO - Video loaded: 13009574_3840_2160_30fps.mp4
+2025-04-24 21:41:12,206 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:41:12,206 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:41:23,107 - __main__ - INFO - Monitoring zone cleared
+2025-04-24 21:41:28,549 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:41:28,549 - __main__ - INFO - Monitoring zone saved
+2025-04-24 21:41:29,859 - __main__ - INFO - End of video reached
+2025-04-24 21:41:29,890 - __main__ - INFO - Video source stopped
+2025-04-24 21:41:43,167 - __main__ - ERROR - Error processing statistics: Error tokenizing data. C error: Expected 2 fields in line 315, saw 4
+
+2025-04-24 21:41:55,436 - __main__ - INFO - Configuration saved successfully
+2025-04-26 09:21:06,674 - __main__ - INFO - Configuration loaded successfully
+2025-04-26 09:21:06,690 - __main__ - INFO - Loaded 80 classes from coco.txt
+2025-04-26 09:21:06,722 - __main__ - INFO - Monitoring zone loaded
+2025-04-26 09:21:06,722 - __main__ - INFO - Monitoring zone loaded
+2025-04-26 09:21:06,886 - __main__ - INFO - Model loaded successfully: yolov8s.pt
+2025-04-26 09:21:06,888 - __main__ - INFO - Model loaded: yolov8s.pt
+2025-04-26 09:41:56,411 - __main__ - INFO - Configuration loaded successfully
+2025-04-26 09:41:56,411 - __main__ - INFO - Loaded 80 classes from coco.txt
+2025-04-26 09:41:56,438 - __main__ - INFO - Monitoring zone loaded
+2025-04-26 09:41:56,438 - __main__ - INFO - Monitoring zone loaded
+2025-04-26 09:41:56,538 - __main__ - INFO - Model loaded successfully: yolov8s.pt
+2025-04-26 09:41:56,538 - __main__ - INFO - Model loaded: yolov8s.pt
+2025-04-26 10:11:57,788 - __main__ - INFO - Configuration saved successfully
+2025-04-26 10:12:47,738 - __main__ - INFO - Configuration loaded successfully
+2025-04-26 10:12:47,738 - __main__ - INFO - Loaded 80 classes from coco.txt
+2025-04-26 10:12:47,755 - __main__ - INFO - Monitoring zone loaded
+2025-04-26 10:12:47,755 - __main__ - INFO - Monitoring zone loaded
+2025-04-26 10:12:47,856 - __main__ - INFO - Model loaded successfully: yolov8s.pt
+2025-04-26 10:12:47,857 - __main__ - INFO - Model loaded: yolov8s.pt
+2025-04-26 10:13:55,458 - __main__ - INFO - Configuration saved successfully
+2025-04-26 10:13:55,459 - __main__ - INFO - Video loaded: 13009574_3840_2160_30fps.mp4
+2025-04-26 10:13:58,558 - __main__ - INFO - Video paused
+2025-04-26 10:14:03,317 - __main__ - INFO - Video resumed
+2025-04-26 10:14:07,582 - __main__ - INFO - Video paused
+2025-04-26 12:37:50,319 - __main__ - INFO - Video source stopped
+2025-04-26 12:37:50,326 - __main__ - INFO - Configuration saved successfully

@@ -1,0 +1,6 @@
+opencv-python
+Pillow
+pandas
+ultralytics
+cvzone
+pushbullet.py
